@@ -117,7 +117,7 @@ body {}
 	margin-bottom:30px;
 }
 .bg-green {
-    background: #006DF0;
+    background: # /*#006DF0; */
 }
 .bg-red {
     background: #933EC5;
@@ -2095,7 +2095,7 @@ ul.two-part-sp li{
 	border: 1px solid rgba(0,0,0,.12);
 }
 .blog-date {
-    background: #006DF0;
+    background: #006DF0;      /**/
     border: 4px solid #fff;
     border-radius: 50%;
     bottom: -25px;
@@ -2193,7 +2193,7 @@ ul.two-part-sp li{
 }
 .comment-replay {
     float: right;
-    color: #006DF0;
+    color: #006DF0;      /* */
     font-size: 14px;
     text-transform: uppercase;
 }
@@ -2249,7 +2249,7 @@ ul.two-part-sp li{
     outline: none;
 }
 .coment-area input[type="text"]:focus, .coment-area textarea:focus {
-    border: 1px solid #006DF0;
+    border: 1px solid #006DF0;  /*  */
 }
 .coment-area input[type="submit"] {
     text-transform: uppercase;
@@ -2257,7 +2257,7 @@ ul.two-part-sp li{
     font-size: 12px;
     color: #fff;
     padding: 10px 30px;
-    background: #006DF0;
+    background: #006DF0;  /*  */
     border: none;
     border-radius: 2px;
     transition: all .4s ease 0s;
@@ -2307,7 +2307,7 @@ ul.two-part-sp li{
 }
 .credit-card-custom a, .waves-light{
 	background:#eba134           /* #006DF0; */
-	border-color: #eba134        /* #006DF0; */
+	border-color:#eba134        /* #006DF0; */
 }
 .payment-method-ht i {
     font-size: 50px;
@@ -2319,12 +2319,12 @@ ul.two-part-sp li{
 	text-align:center;
 }
 .payment-adress button{
-	background:#006DF0;       /**/
-	border-color:#006DF0;     /**/
+	background:#eba134    /* #006DF0;     */
+	border-color:#eba134  /* #006DF0;     */
 }
 .payment-adress button:hover, .payment-adress button:focus, .payment-adress button:active, .payment-adress button:visited, .credit-card-custom a:hover, .credit-card-custom a:focus, .credit-card-custom a:active, .credit-card-custom a:visited, .waves-light:hover, .waves-light:focus, .waves-light:active, .waves-light:visited{
-	background:#006DF0;         /**/
-	border-color:#006DF0;       /**/
+	background:#eba134    /* #006DF0;     */
+	border-color:#eba134  /*#006DF0;   */
 	outline:none;
 	cursor:pointer;
 }
