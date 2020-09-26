@@ -2266,6 +2266,11 @@ ul.two-part-sp li{
 .coment-area textarea {
     padding-top: 10px;
 }
+
+
+
+
+
 /*----------------------------------------*/
 /*  13.2. course Payment
 /*----------------------------------------*/
@@ -2288,8 +2293,8 @@ ul.two-part-sp li{
 	margin-bottom:30px;
 }
 .credit-card-custom a, .waves-light{
-	background:#006DF0;
-	border-color: #006DF0;
+	background:#eba134           // #006DF0;
+	border-color: #eba134        // #006DF0;
 }
 .payment-method-ht i {
     font-size: 50px;
@@ -2319,6 +2324,12 @@ ul.two-part-sp li{
 .payment-adress.mg-t-15{
 	margin-top:0px;
 }
+
+
+
+
+
+
 /*----------------------------------------*/
 /*  14. Library
 /*----------------------------------------*/
