@@ -3673,8 +3673,11 @@ element.style {
 div#sparklinehome canvas {
     width: 100% !important;
 }
+
+
+
 .header-top-area {
-    background: #006DF0;
+    background: #6ee0d7 /*#006DF0;*/
 }
 .sidebar-nav .metismenu{
 	background: #fff;
